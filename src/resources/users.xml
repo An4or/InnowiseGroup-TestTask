@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Users>
+<User>
+<firstName>Petr</firstName>
+<lastName>Petrov</lastName>
+<role1>role1</role1>
+<role2> </role2>
+<role3> </role3>
+<email>mail1@tut.by</email>
+<phone1>37529 6785432</phone1>
+<phone2> </phone2>
+<phone3> </phone3>
+</User>
+<User>
+<firstName>Dmitriy</firstName>
+<lastName>Dmitrovich</lastName>
+<role1>role2</role1>
+<role2> </role2>
+<role3> </role3>
+<email>email2@mail.ru</email>
+<phone1>37533 9875432</phone1>
+<phone2> </phone2>
+<phone3> </phone3>
+</User>
+<User>
+<firstName>Roma</firstName>
+<lastName>Romov</lastName>
+<role1>role5</role1>
+<role2>role3</role2>
+<role3>role4</role3>
+<email>rom@tut.by</email>
+<phone1>37529 0000001</phone1>
+<phone2>37529 0000002</phone2>
+<phone3>37529 0000003</phone3>
+</User>
+</Users>
